@@ -88,7 +88,7 @@ function blobToDataURI(blob, callback) {
     }
     reader.readAsDataURL(blob);
 }
-var url = "https://s-bj-1934-cdn-for-dgtmc.oss.dogecdn.com/images/2021-02-12_00.47.31.png";
+var url = "https://beijing.cdn.yhdzz.cn/blog.dgtmc.top/2022/07/20220707194027216.png";
 var xhr = new XMLHttpRequest();
 xhr.open('GET', url, true);
 xhr.responseType = "blob";
