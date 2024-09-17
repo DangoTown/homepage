@@ -1,4 +1,4 @@
-var api = "https://blog.dgtmc.top/";
+var api = "https://www.dgtmc.top/";
 
 $(document).ready(function () {
     $(".loading").hide();
